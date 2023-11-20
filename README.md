@@ -1,1 +1,1 @@
-# Binary-exponention
+# Binary-exponentiation
